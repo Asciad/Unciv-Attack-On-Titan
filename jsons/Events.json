@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Power of the Nine Titans",
+    "text": "In the heart of your civilization, a momentous event unfolds as one of the legendary Titans is discovered and harnessed for the good of your people. Choose wisely, for each Titan brings unique abilities and powers to your empire. Will you seize the opportunity to dominate your foes, or will you wield its might for the betterment of all?",
+    "choices": [
+      {
+        "text": "Founding Titan",
+        "triggeredUniques": ["Gain a free [Founding] [in capital]"],
+      },
+      {
+        "text": "Warhammer Titan",
+        "triggeredUniques": ["Gain a free [Warhammer] [in capital]"],
+      },
+      {
+        "text": "Colossus Titan",
+        "triggeredUniques": ["Gain a free [Colossus] [in capital]"],
+      },
+      {
+        "text": "Beast Titan",
+        "triggeredUniques": ["Gain a free [Beast] [in capital]"],
+      },
+      {
+        "text": "Armored Titan",
+        "triggeredUniques": ["Gain a free [Armored] [in capital]"],
+      },
+      {
+        "text": "Attack Titan",
+        "triggeredUniques": ["Gain a free [Attack] [in capital]"],
+      },
+      {
+        "text": "Jaw Titan",
+        "triggeredUniques": ["Gain a free [Jaw] [in capital]"],
+      },
+      {
+        "text": "Female Titan",
+        "triggeredUniques": ["Gain a free [Female] [in capital]"],
+      },
+      {
+        "text": "Cart Titan",
+        "triggeredUniques": ["Gain a free [Cart] [in capital]"],
+      }
+      ]
+  }
+]
