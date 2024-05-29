@@ -9,7 +9,7 @@
 	"startBias": ["Plains"],
 	"preferredVictoryType": "Diplomatic",
 
-	"startIntroPart1": "Historia Reiss, the Queen of the Walls. You were disowned by your royal blood, wished dead by your own mother. You fought for the Survey Corps, see the horrible atrocities that go on outside the Walls. You've faced the horrible Titan threat, the fall of your comrades... But you pushed forward. You survived during your time in the Military. Until one day, the Military discovered your royal blood. You slew your father, after he became a massive Titan and attempted to take the Founding Titan for myself. Thus, you were accepted by the people of Paradis, hailed as the Queen of the Walls. You were Queen during the Return to Shiganshina, the War against Marley, and the Battle of Heaven and Earth; ensuring the freedom of the Eldians for the years to come.",
+	"startIntroPart1": "Historia Reiss, the Queen of the Walls. You were disowned by your royal blood, wished dead by your own mother. You fought for the SurveyProvides Corps, see the horrible atrocities that go on outside the Walls. You've faced the horrible Titan threat, the fall of your comrades... But you pushed forward. You survived during your time in the Military. Until one day, the Military discovered your royal blood. You slew your father, after he became a massive Titan and attempted to take the Founding Titan for myself. Thus, you were accepted by the people of Paradis, hailed as the Queen of the Walls. You were Queen during the Return to Shiganshina, the War against Marley, and the Battle of Heaven and Earth; ensuring the freedom of the Eldians for the years to come.",
 	"startIntroPart2": "Great Historia, your people face a new threat. They seek your expertise beyond the Walls, and hail for you to lead them once more. Will you build a civilization that can stand the test of time?",
 
 	"introduction": "I am Historia Reiss, The True Ruler of These Walls. Welcome to Paradis Island, outsider. Do you wish to be an ally of the enemy of humanity?",
@@ -30,7 +30,7 @@
 	"hateYes": "Under no circumstances will we agree to that.",
 		
 	"uniqueName": "Subject of Ymir",
-	"uniques": ["Free [Pure Titan] appears <in cities with a [Walls]> <when at war>","Remove [Walls] [in all cities] <when at war> <upon turn end>"],
+	"uniques": ["Free [Pure Titan] appears <in cities with a [Walls]> <when at war>","Remove [Walls] [in all cities] <when at war> <upon turn end>","Provides [1] [Attack (Titan)]","Provides [1] [Armored (Titan)]","Provides [1] [Founding (Titan)]","Provides [1] [Cart (Titan)]","Provides [1] [Beast (Titan)]","Provides [1] [Jaw (Titan)]","Provides [1] [Female (Titan)]","Provides [1] [Warhammer (Titan)]","Provides [1] [Colossus (Titan)]"],
 
 	"cities": ["Mitras","Stohess","Trost","Shiganshina","Orvud","Ehrmich","The Industrial City","Calaneth","Krolva","Yarckel","Utopia","Ragako","Dauper","Odel","Jinae","Elsnir","Utgard","Snate","Wall Sina","Wall Rose","Wall Maria"]
   }
