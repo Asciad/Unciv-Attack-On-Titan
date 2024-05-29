@@ -1,3 +1,47 @@
 [
-
+  {
+    "name": "Attack (Titan)", 
+    "resourceType": "Strategic",
+    "uniques": ["Not shown on world screen","Cannot be traded"],
+  },
+  {
+    "name": "Armored (Titan)",
+    "resourceType": "Strategic",
+    "uniques": ["Not shown on world screen", "Cannot be traded"],
+  },
+  {
+    "name": "Founding (Titan)",
+    "resourceType": "Strategic",
+    "uniques": ["Not shown on world screen", "Cannot be traded"],
+  },
+  {
+    "name": "Colossus (Titan)",
+    "resourceType": "Strategic",
+    "uniques": ["Not shown on world screen", "Cannot be traded"],
+  },
+  {
+    "name": "Beast (Titan)",
+    "resourceType": "Strategic",
+    "uniques": ["Not shown on world screen", "Cannot be traded"],
+  },
+  {
+    "name": "Female (Titan)",
+    "resourceType": "Strategic",
+    "uniques": ["Not shown on world screen", "Cannot be traded"],
+  },
+  {
+    "name": "Warhammer (Titan)",
+    "resourceType": "Strategic",
+    "uniques": ["Not shown on world screen", "Cannot be traded"],
+  },
+  {
+    "name": "Cart (Titan)",
+    "resourceType": "Strategic",
+    "uniques": ["Not shown on world screen", "Cannot be traded"],
+  },
+  {
+    "name": "Jaw (Titan)",
+    "resourceType": "Strategic",
+    "uniques": ["Not shown on world screen", "Cannot be traded"],
+  }
 ]
