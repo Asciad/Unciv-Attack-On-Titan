@@ -17,7 +17,7 @@
 	"movement": 2,
 	"strength": 8,
 	"cost": 13,
-	"uniqueTo": "Eldia",
+	"uniqueTo": "Paradis",
 	"uniques": ["Triggers a [Power of the Nine Titans] event <by consuming this unit> <upon defeating a [All] unit> <with [25]% chance>","This Unit takes [2000] damage <upon turn end> <when not at war>"],
  }, 
  {
