@@ -1,3 +1,37 @@
 [
+ {
+ "name": "Paradis",
+	"leaderName": "Historia Reiss",
+	"adjective": ["Eldian"],
+	"outerColor": [6,49,9],
+	"innerColor": [208,217,210],
 
+	"startBias": ["Plains"],
+	"preferredVictoryType": "Diplomatic",
+
+	"startIntroPart1": "Historia Reiss, the Queen of the Walls. You were disowned by your royal blood, wished dead by your own mother. You fought for the Survey Corps, see the horrible atrocities that go on outside the Walls. You've faced the horrible Titan threat, the fall of your comrades... But you pushed forward. You survived during your time in the Military. Until one day, the Military discovered your royal blood. You slew your father, after he became a massive Titan and attempted to take the Founding Titan for myself. Thus, you were accepted by the people of Paradis, hailed as the Queen of the Walls. You were Queen during the Return to Shiganshina, the War against Marley, and the Battle of Heaven and Earth; ensuring the freedom of the Eldians for the years to come.",
+	"startIntroPart2": "Great Historia, your people face a new threat. They seek your expertise beyond the Walls, and hail for you to lead them once more. Will you build a civilization that can stand the test of time?",
+
+	"introduction": "I am Historia Reiss, The True Ruler of These Walls. Welcome to Paradis Island, outsider. Do you wish to be an ally of the enemy of humanity?",
+	"declaringWar": "This fight will not end until either Eldia or the world disappears.",
+	"attacked": "Eldia will not tolerate aggression against its people. We will respond decisively.",
+	"afterPeace": "We are willing to forgive past transgressions and move forward in peace, for the betterment of all involved.",
+	"defeated": "Though I cannot see the future that lies beyond this one, I have been able to see this future clearly. I knew this day would come.",
+
+	"neutralHello": "Greetings. Let us strive for mutual understanding and cooperation.",
+	"hateHello": "What do you seek here? We have no patience for hostility or discord.",
+
+	"tradeRequest": "Let us engage in mutually beneficial trade to foster prosperity for both our nations.",
+	"neutralLetsHearIt": "Please, share your thoughts. We value open dialogue and exchange of ideas.",
+	"hateLetsHearIt": "Speak quickly. We have little tolerance for nonsense.",
+	"neutralNo": "We respectfully decline.",
+	"neutralYes": "Agreed, let us proceed.",
+	"hateNo": "Your proposal is unacceptable.",
+	"hateYes": "Under no circumstances will we agree to that.",
+		
+	"uniqueName": "Subject of Ymir",
+	"uniques": ["Free [Pure Titan] appears <in cities with a [Walls]> <when at war>","Remove [Walls] [in all cities] <when at war> <upon turn end>"],
+
+	"cities": ["Mitras","Stohess","Trost","Shiganshina","Orvud","Ehrmich","The Industrial City","Calaneth","Krolva","Yarckel","Utopia","Ragako","Dauper","Odel","Jinae","Elsnir","Utgard","Snate","Wall Sina","Wall Rose","Wall Maria"]
+	}
 ]
