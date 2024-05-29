@@ -18,7 +18,7 @@
 	"strength": 8,
 	"cost": 13,
 	"uniqueTo": "Eldia",
-	"uniques": ["Triggers a [Power of the Nine Titans] event <by consuming this unit> <upon defeating a [All] unit> <with [25]% chance>"],
+	"uniques": ["Triggers a [Power of the Nine Titans] event <by consuming this unit> <upon defeating a [All] unit> <with [25]% chance>","This Unit takes [2000] damage <upon turn end> <when not at war>"],
  }, 
  {
     "name": "Armored",
@@ -26,7 +26,7 @@
 	"movement": 2,
 	"strength": 13,
 	"uniqueTo": "Paradis",
-	"uniques": ["[+50]% Strength <when defending>"],
+	"uniques": ["[+50]% Strength <when defending>","Unbuildable","Cannot be purchased"],
  }, 
  {
    	"name": "Attack",
@@ -34,7 +34,7 @@
 	"movement": 2,
 	"strength": 13,
 	"uniqueTo": "Paradis",
-	"uniques": ["[+33]% Strength <when attacking> <with [15]% chance>","Damage is ignored when determining unit Strength"],
+	"uniques": ["Damage is ignored when determining unit Strength","Unbuildable","Cannot be purchased"],
  },
  {
    	"name": "Founding",
@@ -42,7 +42,7 @@
 	"movement": 2,
 	"strength": 13,
 	"uniqueTo": "Paradis",
-	"uniques": ["[4] free [Pure Titan] units appear <in [Capital] cities> <when attacking> <with [20]% chance>","[+15]% Strength bonus for [Titan] units within [1] tiles"],
+	"uniques": ["[4] free [Pure Titan] units appear <in [Capital] cities> <when attacking> <with [20]% chance>","[+15]% Strength bonus for [Titan] units within [1] tiles","Unbuildable","Cannot be purchased"],
  }, 
  {
    	"name": "Female",
@@ -50,7 +50,7 @@
 	"movement": 2,
 	"strength": 13,
 	"uniqueTo": "Paradis",
-	"uniques": ["[2] free [{Barbarian} {Pure Titan}] units appear <with [33]% chance> <when adjacent to a [Enemy] unit>"],
+	"uniques": ["[2] free [{Barbarian} {Pure Titan}] units appear <upon turn end> <with [33]% chance> <when adjacent to a [Enemy] unit>","Unbuildable","Cannot be purchased"],
  }, 
  {
    	"name": "Warhammer",
@@ -58,7 +58,7 @@
 	"movement": 2,
 	"strength": 13,
 	"uniqueTo": "Paradis",
-	"uniques": ["[+50]% Strength <vs cities>"],
+	"uniques": ["[+50]% Strength <vs cities>","Unbuildable","Cannot be purchased"],
  }, 
  {
    	"name": "Beast",
@@ -67,7 +67,7 @@
 	"strength": 11,
 	"rangedStrength": 13, 
 	"uniqueTo": "Paradis",
-	"uniques": ["must set up to ranged attack","May capture killed [Land] units","[2] free [Pure Titan] units appear <in [Enemy] cities> <upon gaining a [Land] unit>"],
+	"uniques": ["must set up to ranged attack","May capture killed [Land] units <with [33]% chance>","[2] free [Pure Titan] units appear <in [Enemy] cities> <upon gaining a [Land] unit>","Unbuildable","Cannot be purchased"],
  }, 
  {
    	"name": "Jaw",
@@ -75,7 +75,7 @@
 	"movement": 3,
 	"strength": 13,
 	"uniqueTo": "Paradis",
-	"uniques": ["Can move after attacking","[+25]% Strength <vs [Armored] units>"],
+	"uniques": ["Can move after attacking","[+25]% Strength <vs [Armored] units>","Unbuildable","Cannot be purchased"],
  }, 
  {
    	"name": "Cart",
@@ -83,14 +83,14 @@
 	"movement": 4,
 	"strength": 11,
 	"uniqueTo": "Paradis",
-	"uniques": ["[15]% to Flank Attack bonuses","Can carry [2] [Land] units"],
+	"uniques": ["[15]% to Flank Attack bonuses","Can carry [2] [Land] units","Unbuildable","Cannot be purchased"],
  },
  {
    	"name": "Colossus",
 	"unitType": "Titan",
 	"movement": 1,
-	"strength": 13,
+	"strength": 14,
 	"uniqueTo": "Paradis",
-	"uniques": ["Cannot be carried by [Titan] units","Blast radius [2]","Destroys tile improvements when attacking","Nuclear weapon of Strength [0.33] <with [20]% chance>"]
+	"uniques": ["Cannot be carried by [Titan] units","Blast radius [2]","Destroys tile improvements when attacking","Nuclear weapon of Strength [0.33] <with [20]% chance>","Unbuildable","Cannot be purchased"]
  }
 ]
