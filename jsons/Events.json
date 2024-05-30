@@ -47,6 +47,10 @@
         "text": "Cart Titan",
         "conditions": ["Consumes [1] [Cart (Titan)]"],
         "triggeredUniques": ["Gain a free [Cart] [in capital]"],
+      },
+      {
+        "text": "Pure Titan",
+        "triggeredUniques": ["Gain a free [Pure Titan] [in capital]"],
       }
       ]
   }
