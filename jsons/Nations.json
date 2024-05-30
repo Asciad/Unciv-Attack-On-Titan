@@ -30,7 +30,7 @@
 	"hateYes": "Under no circumstances will we agree to that.",
 		
 	"uniqueName": "Subject of Ymir",
-	"uniques": ["Free [Pure Titan] appears <in cities with a [Walls]> <when at war>","Remove [Walls] [in all cities] <when at war> <upon turn end>","Provides [1] [Attack (Titan)]","Provides [1] [Armored (Titan)]","Provides [1] [Founding (Titan)]","Provides [1] [Cart (Titan)]","Provides [1] [Beast (Titan)]","Provides [1] [Jaw (Titan)]","Provides [1] [Female (Titan)]","Provides [1] [Warhammer (Titan)]","Provides [1] [Colossus (Titan)]"],
+	"uniques": ["[+10]% [Culture] [in all cities connected to capital]","Free [Pure Titan] appears <in cities with a [Walls]> <when at war>","Remove [Walls] [in all cities] <when at war> <upon turn end>","Provides [1] [Attack (Titan)]","Provides [1] [Armored (Titan)]","Provides [1] [Founding (Titan)]","Provides [1] [Cart (Titan)]","Provides [1] [Beast (Titan)]","Provides [1] [Jaw (Titan)]","Provides [1] [Female (Titan)]","Provides [1] [Warhammer (Titan)]","Provides [1] [Colossus (Titan)]"],
 
 	"cities": ["Mitras","Stohess","Trost","Shiganshina","Orvud","Ehrmich","The Industrial City","Calaneth","Krolva","Yarckel","Utopia","Ragako","Dauper","Odel","Jinae","Elsnir","Utgard","Snate","Wall Sina","Wall Rose","Wall Maria"]
   }
