@@ -7,6 +7,7 @@
 	"strength": 19,
 	"cost": 120,
 	"requiredTech": "Physics",
+	"promotions": ["Omni-Directional Mobility"],
 	"uniqueTo": "Paradis",
 	"uniques": ["[+1 Movement] <in [Forest ] tiles>","[+1 Movement] <in [Jungle ] tiles>","[+1 Movement] <in [City center] tiles>","[+25]% Strength <in [Forest] tiles>","[+25]% Strength <in [Jungle] tiles>","[+25]% Strength <in [City center] tiles>"],
 	"attackSound": "metalhit"
