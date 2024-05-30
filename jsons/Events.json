@@ -5,38 +5,47 @@
     "choices": [
       {
         "text": "Founding Titan",
+        "conditions": ["Consumes [1] [Founding (Titan)]"],
         "triggeredUniques": ["Gain a free [Founding] [in capital]"],
       },
       {
         "text": "Warhammer Titan",
+        "conditions": ["Consumes [1] [Warhammer (Titan)]"],
         "triggeredUniques": ["Gain a free [Warhammer] [in capital]"],
       },
       {
         "text": "Colossus Titan",
+        "conditions": ["Consumes [1] [Colossus (Titan)]"],
         "triggeredUniques": ["Gain a free [Colossus] [in capital]"],
       },
       {
         "text": "Beast Titan",
+        "conditions": ["Consumes [1] [Beast (Titan)]"],
         "triggeredUniques": ["Gain a free [Beast] [in capital]"],
       },
       {
         "text": "Armored Titan",
+        "conditions": ["Consumes [1] [Armored (Titan)]"],
         "triggeredUniques": ["Gain a free [Armored] [in capital]"],
       },
       {
         "text": "Attack Titan",
+        "conditions": ["Consumes [1] [Attack (Titan)]"],
         "triggeredUniques": ["Gain a free [Attack] [in capital]"],
       },
       {
         "text": "Jaw Titan",
+        "conditions": ["Consumes [1] [Jaw (Titan)]"],
         "triggeredUniques": ["Gain a free [Jaw] [in capital]"],
       },
       {
         "text": "Female Titan",
+        "conditions": ["Consumes [1] [Female (Titan)]"],
         "triggeredUniques": ["Gain a free [Female] [in capital]"],
       },
       {
         "text": "Cart Titan",
+        "conditions": ["Consumes [1] [Cart (Titan)]"],
         "triggeredUniques": ["Gain a free [Cart] [in capital]"],
       }
       ]
