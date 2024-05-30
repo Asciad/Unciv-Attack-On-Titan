@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Omni-Directional Mobility",
+    "uniques": "Comment [Access to special promotions]",
+  },
+  {
+    "name": "Anti-personnel",
+    "prerequisites": "Omni-Directional Mobility",
+    "requiredResource": "Coal",
+    "cost": 100,
+    "uniques": ["[+50]% Strength <vs [Melee] units>","[+50]% Strength <vs [Ranged] units>"],
+  },
+  {
+    "name": "Thunder Spear",
+    "prerequisites": "Omni-Directional Mobility",
+    "rangedStrength": 21,
+    "requiredResource": "Aluminum",
+    "cost": 200,
+    "uniques": ["[+200] Strength <vs [Armored] units>","must set up to ranged attack"]
+  }
+]
