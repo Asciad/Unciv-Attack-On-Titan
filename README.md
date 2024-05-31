@@ -20,4 +20,5 @@
 ### Based on:
 >https://civilization-v-customisation.fandom.com/wiki/Paradis_(Historia_Reiss)
 >https://attackontitan.fandom.com/wiki/Attack_on_Titan_(Anime)
+### Images:
 >https://images.app.goo.gl/Y8oamyHBewwRqQku7
