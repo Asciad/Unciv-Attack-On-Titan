@@ -5,7 +5,7 @@
 
 - **Unique Unit: Survey Corps**
 
-- **Unique Unit: Pure Titan**
+- **Unique Unit: Titan**
   * Founding
   * Colossal
   * Warhammer
@@ -15,6 +15,7 @@
   * Jaw
   * Female
   * Cart
+  * Pure Titan
 
 ### Based on:
 >https://civilization-v-customisation.fandom.com/wiki/Paradis_(Historia_Reiss)
